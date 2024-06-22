@@ -316,7 +316,7 @@
                         <div class="col-md-10 wow fadeInLeft">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-6 mt-2 mb-2">
-                                    <img src="assets/images/10.webp" alt="img">
+                                    <img src="assets/images/10-1.webp" alt="img">
                                 </div>
                                 <div class="col-md-6 align-items-center mt-2 mb-2">
                                     <h4 class="wptb-item--title">
@@ -385,7 +385,7 @@
                                     </h6>
                                 </div>
                                 <div class="col-md-6 order-0 order-md-1 align-items-center mt-2 mb-2">
-                                    <img src="assets/images/11.webp" alt="">
+                                    <img src="assets/images/11-1.webp" alt="">
                                 </div>
                             </div>
                         </div>
