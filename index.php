@@ -316,7 +316,7 @@
                         <div class="col-md-10 wow fadeInLeft">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-6 mt-2 mb-2">
-                                    <img src="assets/images/10-1.webp" alt="img">
+                                    <img src="assets/images/2.webp" alt="img">
                                 </div>
                                 <div class="col-md-6 align-items-center mt-2 mb-2">
                                     <h4 class="wptb-item--title">
@@ -371,7 +371,7 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-6 order-1 order-md-0 mt-2 mb-2">
                                     <h4 class="wptb-item--title"><a target="_blank" href="https://misiondsanjose.com/">
-                                            Misión San José <i class="bi bi-arrow-up-right"></i>
+                                            Misión San José restaurant<i class="bi bi-arrow-up-right"></i>
                                         </a></h4>
                                     <p class="wptb-item--description">
                                         Enjoy a great terrace above the plaza where you can watch the sunset
