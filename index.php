@@ -321,7 +321,7 @@
                                 <div class="col-md-6 align-items-center mt-2 mb-2">
                                     <h4 class="wptb-item--title">
                                         <a target="_blank" href="https://garagecoffeebar.com/">
-                                            Garage Coffee & Bar <i class="bi bi-arrow-up-right"></i>
+                                            Garage Coffee Bar <i class="bi bi-arrow-up-right"></i>
                                         </a>
                                     </h4>
                                     <p class="wptb-item--description">
@@ -570,7 +570,7 @@
                                                         <h4 class="wptb-item--title">recfun47</h4>
                                                         <h6 class="wptb-item--designation">
                                                             <a target="_blank" href="https://garagecoffeebar.com/">
-                                                                Garage Coffee & Bar
+                                                                Garage Coffee Bar
                                                             </a>
                                                         </h6>
                                                     </div>
@@ -677,7 +677,7 @@
                                                         <h4 class="wptb-item--title">Jen J</h4>
                                                         <h6 class="wptb-item--designation">
                                                             <a target="_blank" href="https://garagecoffeebar.com/">
-                                                                Garage Coffee & Bar
+                                                                Garage Coffee Bar
                                                             </a>
                                                         </h6>
                                                     </div>
@@ -810,7 +810,5 @@
     <script src="../assets/js/theme.js"></script>
 
 </body>
-
-<!-- Mirrored from wpthemebooster.com/demo/themeforest/html/kimono/dark/index-19.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 16:42:08 GMT -->
 
 </html>
