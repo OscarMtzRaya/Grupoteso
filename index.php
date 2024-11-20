@@ -157,13 +157,15 @@
 
             <h6>// Instagram</h6>
             <div class="insta-logo">
-                <a target="_blank" href="https://www.instagram.com/garagebar.cabo/">
-                    <i class="bi bi-instagram"></i> garagebar.cabo
+                <a target="_blank"
+                    href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d13997571-Reviews-Garage_Coffee_Bar-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                    <img src="assets/images/tripadvisor.png" style="width: 1.5rem;" alt=""> Garage Coffee Bar
                 </a>
             </div>
             <div class="insta-logo">
-                <a target="_blank" href="https://www.instagram.com/misionsanjose_">
-                    <i class="bi bi-instagram"></i> misionsanjose_
+                <a target="_blank"
+                    href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose_Resto_bar-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                    <img src="assets/images/tripadvisor.png" style="width: 1.5rem;" alt=""> Misión San José
                 </a>
             </div>
             <div class="wptb-instagram--gallery">
@@ -216,14 +218,14 @@
                 </div>
             </div>
 
-            <div class="wptb-icon-box1 style2">
+            <!-- <div class="wptb-icon-box1 style2">
                 <div class="wptb-item--inner flex-start">
                     <div class="wptb-item--icon"><i class="bi bi-envelope"></i></div>
                     <div class="wptb-item--holder">
                         <p class="wptb-item--description"><a href="tel:+526241232842">+52 624 123 2842</a></p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- <h6>// Follow Us</h6>
             <div class="social-box style-square">
@@ -330,7 +332,7 @@
                                     </p> <br>
                                     <h6>
                                         <a style="text-decoration: underline;" target="_blank"
-                                            href="https://maps.app.goo.gl/sbfoBizSN9on8oc77">
+                                            href="https://maps.app.goo.gl/5SbdDEZgEUCY9DEz7">
                                             <i class="bi bi-geo-alt"></i> Find Us
                                         </a>
                                     </h6>
@@ -379,7 +381,7 @@
                                     </p> <br>
                                     <h6>
                                         <a style="text-decoration: underline;" target="_blank"
-                                            href="https://maps.app.goo.gl/fTWTDTtEHzuCu55M8">
+                                            href="https://maps.app.goo.gl/w2eAVcJEqmB16NoP8">
                                             <i class="bi bi-geo-alt"></i> Find Us
                                         </a>
                                     </h6>
@@ -400,7 +402,8 @@
                             </div>
                             <div class="col-12 col-md-3 col-lg-3 text-lg-end">
                                 <div class="wptb-item--button">
-                                    <a href="tel:+526241232842" class="btn btn-two creative text-uppercase">
+                                    <a href="mailto:info@grupoteso.com" target="_blank"
+                                        class="btn btn-two creative text-uppercase">
                                         <span class="btn-wrap">
                                             <span class="text-first">Contact Us</span>
                                             <span class="text-second"><i class="bi bi-arrow-up-right"></i> <i
@@ -711,7 +714,7 @@
 
                 <div class="wptb-item">
                     <div class="wptb-item--image">
-                        <img src="../assets/img/instagram/02.webp" alt="img">
+                        <img src="../assets/img/instagram/08.webp" alt="img">
                     </div>
                 </div>
 
@@ -723,17 +726,22 @@
 
                 <div class="wptb-item">
                     <div class="wptb-item--image">
-                        <img src="../assets/img/instagram/04.webp" alt="img">
+                        <img src="../assets/img/instagram/07.webp" alt="img">
                     </div>
                 </div>
 
                 <div class="wptb-item">
                     <div class="wptb-item--image">
-                        <img src="../assets/img/instagram/05.webp" alt="img">
+                        <img src="../assets/img/instagram/09.webp" alt="img">
+                    </div>
+                </div>
+                <div class="wptb-item">
+                    <div class="wptb-item--image">
+                        <img src="../assets/img/instagram/06.webp" alt="img">
                     </div>
                 </div>
             </div>
-            <div class="wptb-item--button">
+            <!-- <div class="wptb-item--button">
                 <a class="btn btn-two" target="_blank" href="https://www.instagram.com/garagebar.cabo/">
                     <span class="btn-wrap">
                         <span class="text-first">Follow Us on Instagram</span>
@@ -741,7 +749,7 @@
                         </span>
                     </span>
                 </a>
-            </div>
+            </div> -->
         </div>
 
     </main>
