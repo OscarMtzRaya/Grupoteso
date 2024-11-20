@@ -387,7 +387,7 @@
                                     </h6>
                                 </div>
                                 <div class="col-md-6 order-0 order-md-1 align-items-center mt-2 mb-2">
-                                    <img src="assets/images/11-1.webp" alt="">
+                                    <img src="assets/images/15.webp" alt="">
                                 </div>
                             </div>
                         </div>
